@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "this is website",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "shailesh",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.19"
+  }
+}
